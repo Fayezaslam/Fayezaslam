@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fayezaslam
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on machine learning
+- 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me fayez.champ.com@gmail.com
 
 <!---
